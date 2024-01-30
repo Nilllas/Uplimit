@@ -5,7 +5,7 @@ Welcome to Uplimit's online education program! This repository contains the cour
 ## Table of Contents
 
 - Week 1: Introduction to Large Language Models
-- Project: Podcast Summarization Service
+  - Project: Podcast Summarization Service
   
 ## Week 1: Introduction to Large Language Models
 
