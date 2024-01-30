@@ -6,6 +6,8 @@ Welcome to Uplimit's online education program! This repository contains the cour
 
 - Week 1: Introduction to Large Language Models
   - Project: Podcast Summarization Service
+- Week 2: Lorem ipsum
+  - Project: Lorem ipsum
   
 ## Week 1: Introduction to Large Language Models
 
@@ -14,3 +16,7 @@ Over the course of this week, you'll be introduced to Large Language Models (LLM
 ### Week 1 - Project: Podcast Summarization Service
 
 In the project, we will help you build an end-to-end service that summarizes and highlights your favorite podcasts, so that you can then choose which ones to actually listen to. We're excited to see how you extend the project to build your own product!
+
+## Week 2: Lorem ipsum
+
+Over the course of this week, you'll be introduced to Large Language Models (LLMs) like OpenAI's ChatGPT. You
